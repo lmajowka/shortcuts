@@ -1,0 +1,13 @@
+.cb{ clear:both }
+.fr{ float:right }
+.fl{ float:left }
+.tc{ text-align:center }
+.tl{ text-align:left }
+.dn{ display:none }
+.db{ display:block }
+.cp{ cursor:pointer }
+.pr{ position:relative }
+.pa{ position:absolute }
+.ps{ position:static }
+
+.w100{width:100%}
